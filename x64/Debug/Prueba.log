@@ -1,0 +1,152 @@
+﻿  main.cpp
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\class.h(18,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\class.h(19,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\class.h(20,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\matrix_operation.h(55,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\matrix_operation.h(56,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\matrix_operation.h(57,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(42,76): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(42,57): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(42,38): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(109,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(108,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(107,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(113,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(113,33): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(113,27): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(142,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(141,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(140,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(147,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(147,33): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(147,27): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(173,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(172,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(171,36): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(178,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(178,33): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(178,27): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(208,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(207,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(206,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(212,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(212,33): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(212,27): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(237,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(236,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(235,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(241,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(241,33): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(241,27): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(260,72): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(260,53): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\main.cpp(260,34): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Prueba.vcxproj -> C:\Users\luisa\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Documents\Uaslp\Semestre 5\4 - Graficación por computadora\P1\Codigo\Prueba\x64\Debug\Prueba.exe
